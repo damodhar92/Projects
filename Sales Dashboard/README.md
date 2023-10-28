@@ -10,7 +10,7 @@ meaningful insights were derived through data visualization using Excel, Power-B
 The TechnoEdge Sales Dashboard project consists of the following key components:
 1. Monthly sales data is collected as separate CSV files, with each month containing one CSV file, and total number of files
    exceeds 20.
-2. The collected CSV files data was merged into a single dataset, eliminating any inconsistencies in column names dand data structure.
+2. The collected CSV files data was merged into a single dataset, eliminating any inconsistencies in column names and data structure.
 3. In the Data Cleaning process the dataset was transformed duplicate records were removed, and text case consistency was ensured for
    key columns.
 4. In the first row of the Dashboard, the cards display the sum of sales, the sum of quantity, the sum of discounts, and the total number
