@@ -71,3 +71,12 @@ Various techniques were employed to determine the best model, and the RandomFore
 ## Streamlit App
 
 This project aims to provide a user friendly web application that predicts house price in the Gurgaon city based on various features. The app is built using Streamlit, a popular python library for creating interactive web applications.
+
+### Features
+1. Predict the House price
+2. Explore the dataset and visualize the data 
+3. The app uses a trained machine learning model to make predictions
+
+So by using this library I made this app and you can access the app link here: [link text](https://gurgaon-house-price-prediction-app-viboys3cvhdhbgzgdnnnfw.streamlit.app/)
+
+
