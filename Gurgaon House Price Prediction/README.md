@@ -77,6 +77,6 @@ This project aims to provide a user friendly web application that predicts house
 2. Explore the dataset and visualize the data 
 3. The app uses a trained machine learning model to make predictions
 
-So by using this library I made this app and you can access the app link here: [link text](https://gurgaon-house-price-prediction-app-viboys3cvhdhbgzgdnnnfw.streamlit.app/)
+So by using this library I made this app and you can access the app link here: [https://gurgaon-house-price-prediction-app-viboys3cvhdhbgzgdnnnfw.streamlit.app/](https://gurgaon-house-price-prediction-app-viboys3cvhdhbgzgdnnnfw.streamlit.app/)
 
 
