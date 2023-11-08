@@ -52,20 +52,27 @@ In this dataset follwing attributes are included:
 #### 1. Explore the data using Excel
 + I have analyzed the data and performed some cleaning in both datasets using excel.
 #### 2. Data Preprocessing level2
-+ In the data preprocessing, I identified and corrected spelling mistakes. I also associated area names with their respective sectors and replaced them with the 
-corresponding sector names.
++ In the data preprocessing, I identified and corrected spelling mistakes.
++ I also associated area names with their respective sectors and replaced them with the corresponding sector names.
 #### 3. Merge datasets
 + Both the 'flats.csv' and 'houses.csv' datasets were merged using the concatenate function.
 #### 4. EDA
-+ I conducted exploratory data analysis (EDA) for the project in Gurgaon, utilizing both multivariate and univariate analysis techniques. This involved a comprehensive examination of the data, studying the relationships between multiple variables (multivariate analysis), as well as analyzing individual variables in isolation (univariate analysis) to gain insights and inform decision-making.
-EDA also performed using pandas profiling. 
++ I conducted exploratory data analysis (EDA) for the project in Gurgaon, utilizing both multivariate and univariate analysis techniques.
++ This involved a comprehensive examination of the data, studying the relationships between multiple variables (multivariate analysis), as well as analyzing individual variables in isolation (univariate analysis) to gain insights and inform decision-making.
++ EDA also performed using pandas profiling. 
 #### 5. Featur Engineering 
-+ In the featur Engineering section, I assigned numerical values to the relevan columns such as (age possession,furnishingDetails etc). this involved transforming or enconding data columns to make them suitable for machine learning algorithms. Some rows area in sq.m units, those columns are converted into sq.fts.
++ In the featur Engineering section, I assigned numerical values to the relevan columns such as (age possession,furnishingDetails etc). this involved transforming or enconding data columns to make them suitable for machine learning algorithms.
++ Some rows area in sq.m units, those columns are converted into sq.fts.
 #### 6. Feature Selection 
-+ In this section various techniques such as  Correlation Analysis,Random Forest Feature Importance, Gradient Boosting Feature Importance techniques are used to find the best features in the dataset. The less important columns are droped from the dataset to improve the model performance.
++ In this section various techniques such as  Correlation Analysis,Random Forest Feature Importance, Gradient Boosting Feature Importance techniques are used to find the best features in the dataset.
++ The less important columns are droped from the dataset to improve the model performance.
 #### 7. Missing value Imputation 
-+ In this section mean and mode imputation used to fill the null values. This approach helps ensure that the dataset is complete and ready for further analysis or modeling, while also preserving the integrity of the data.
-#### 8. Model Selection 
++ In this section mean and mode imputation used to fill the null values.
++ This approach helps ensure that the dataset is complete and ready for further analysis or modeling, while also preserving the integrity of the data.
+#### 8. Outliers Detection & Removal
++ Outliers can be detected using various statistical analysis techniques, such as box plots and distribution plots. Outliers are data points that significantly deviate from the typical patterns.
++ Outliers can be managed by either removing them from the dataset or transforming the data to make them less influential.
+#### 9. Model Selection 
 + Various techniques were employed to determine the best model, and the RandomForestRegressor achieved the highest score, making it the selected best model.
 
 ## Streamlit App
