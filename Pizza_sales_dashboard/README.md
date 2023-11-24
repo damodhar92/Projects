@@ -69,7 +69,7 @@ The Dataset Contains below columns
 
 
 # Checkout and Interact with my Dashboard On:
-(https://app.powerbi.com/groups/me/reports/01310a5f-6d38-450c-9d15-d64e8ca3cbed/ReportSection?experience=power-bi)
+https://app.powerbi.com/groups/me/reports/01310a5f-6d38-450c-9d15-d64e8ca3cbed/ReportSection?experience=power-bi
 
 
 
