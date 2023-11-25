@@ -1,6 +1,5 @@
 # Gurgaon House Price Prediction 
-
-![Uploading Your paragraph text.png…]()
+![Your paragraph text](https://github.com/damodhar92/Projects/assets/104577474/91cce23b-1787-4e3a-a4e3-367d833fbfaf)
 
 
 
