@@ -1,5 +1,10 @@
 # Gurgaon House Price Prediction 
 
+![Uploading Your paragraph text.png…]()
+
+
+
+
 ## Overview:
 The Gurgaon City House Price Prediction project is an advanced data science and machine learning project. Its main aims to provide a user friendly web application that predict the House Price in the Gurgaon city based on various features. To do this, we use a set of old data about houses, which includes different deatails about them. We want to make a strong and correct model that can guess the house price well.
 
