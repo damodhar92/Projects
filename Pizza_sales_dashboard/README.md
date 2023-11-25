@@ -3,6 +3,8 @@
 ## Overview
 Welcome to the Pizza Sales Analysis Dashboard project! In this project, we used data analytics and visualization techniques to gain valuable insights into pizza sales. The project involved cleaning and analyzing data using Excel, Writing SQL Queries to gain insights and Dataset is importing into Power BI for further processing and Visualization, and creating a user friendly dashboard.
 
+## Problem Statement
+In the dynamic and competitive landscape of the pizza industry, understanding and leveraging data is crucial for making informed business decisions. Our pizza sales analysis project aims to provide a comprehensive overview of sales data through a user-friendly and insightful dashboard. 
 
 ## About the Dataset
 The Dataset Contains below columns
