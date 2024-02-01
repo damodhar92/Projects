@@ -23,8 +23,15 @@ The Dataset Contains 16 Columns they are
 15. ship country  #The country to which order is shipped
 16.  B2B  #It indicates Business-to-Business
 
+## Key Steps
++ Using Excel Power Query, shape, transform, and cleand the data
++ Generated Pivot table to summarize and aggregate the cleaned data
++ Pivot table data used for visualization such as charts. Bar Charts, Pie charts, and Funnel Charts used for visualization
++ Created Filters Monthely, Channels 
++ Sales Annual DashBoard is Developed Using filters and Visualization Charts 
 
-
+## DashBoard 
+![C:\Users\Damodhara\Desktop\Gokul Store Sales Dashboard.png]
 
 
 
