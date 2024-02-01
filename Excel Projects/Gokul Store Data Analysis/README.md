@@ -5,7 +5,7 @@ Gokul Store is an Online Textile Store conducting business across various channe
 
 
 ### About Dataset
-The Dataset Contains below Columns
+The Dataset Contains 16 Columns they are
 1. Index  #Unique identifier for each row in the dataset
 2. Orderid  #Distinct number for each order 
 3. Customerid  #Unique identifier for each customer
