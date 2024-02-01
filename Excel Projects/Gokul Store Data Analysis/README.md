@@ -33,6 +33,9 @@ The Dataset Contains 16 Columns they are
 ## DashBoard 
 ![Gokul Store Sales Dashboard](https://github.com/damodhar92/Projects/assets/104577474/3dec0b13-35a4-42ab-9b45-bddfe03f750b)
 
+## Insights from the DashBoard
+
+
 
 
 
