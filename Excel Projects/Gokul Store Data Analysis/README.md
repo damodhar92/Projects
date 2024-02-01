@@ -31,7 +31,8 @@ The Dataset Contains 16 Columns they are
 + Sales Annual DashBoard is Developed Using filters and Visualization Charts 
 
 ## DashBoard 
-![C:\Users\Damodhara\Desktop\Gokul Store Sales Dashboard.png]
+![Gokul Store Sales Dashboard](https://github.com/damodhar92/Projects/assets/104577474/3dec0b13-35a4-42ab-9b45-bddfe03f750b)
+
 
 
 
