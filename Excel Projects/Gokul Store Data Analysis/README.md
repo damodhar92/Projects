@@ -36,17 +36,17 @@ The Dataset Contains 16 Columns they are
 ## Insights from the DashBoard
 + In the month of March the Highest amount of sales 1.90M
 + Females percentage of purchase is high 64%
-+ Highest sales amount was recorded through Amzone channel (7506M)
++ Highest sales amount was recorded through Amzone channel 7506M
 + Adult age group (30-49 Years) is max contributing 50%.
-+ Maharastr, Karnataka and Uttar Pradesh are the top 3 states 35%.
++ Maharastr, Karnataka and Uttar Pradesh are the top 3 states 35%
 
 ## Recommendations 
   Target Female customer of age group (30-49) living in Maharastra, karnataka and Uttar Pradesh by showing 
-ads/offers/coupons available on Amzone, Flipkart and Myntra.
+ads/offers/coupons available on Amzone, Flipkart and Myntra
 
 ## Learnt things from this Project
 + Learned how to build filters and connect each filter to pivot tables
-+ Development of DashBoard.
++ Development of DashBoard
 
 
 
