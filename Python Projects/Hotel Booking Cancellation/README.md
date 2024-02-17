@@ -72,7 +72,8 @@ Hotel booking dataset having 119390 rows and 32 Columns
 
 ### Line graph for showing Average daily rate 
 
-![Reservation](https://github.com/damodhar92/Projects/assets/104577474/3b689004-e6d7-48a1-891d-b066d76baf5d)
+![line graph](https://github.com/damodhar92/Projects/assets/104577474/13a0e594-8848-4593-9ed3-57f83c4cb5b1)
+
 
 ##### Insights:
 * The above line graph shows that the most of days average daily rate in the city hotel is more than the resort hotel
