@@ -54,7 +54,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 
 ![Top Ten Countries](https://github.com/damodhar92/Projects/assets/104577474/736fedab-b29e-40ea-b11b-5e02d6e12daf)
 
-##### Insights
+##### Insights:
 * first highest country is PRT (Portugal) more than 20,977 customers from Portugal
 * Second highest country is GBR (Great Britain), which is part of United Kingdom approximately 9,668 customers form Great Britain
 * Third highest country is FRA(France) 8,468 customers from france
@@ -64,7 +64,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 
 ![image](https://github.com/damodhar92/Projects/assets/104577474/b38d6cfa-261f-40b0-a650-33dae538b96c)
 
-##### Insights
+##### Insights:
 * In the whole hotel bookings, the reservation cancellation rate is 37%
 * In the city_hotel cancellation rate is 41%
 * In the resort_hotel cancellation rate is 27%
@@ -74,7 +74,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 
 ![Reservation](https://github.com/damodhar92/Projects/assets/104577474/3b689004-e6d7-48a1-891d-b066d76baf5d)
 
-##### Insights
+##### Insights:
 * The above line graph shows that the most of days average daily rate in the city hotel is more than the resort hotel
 
 #### Reservation status per month 
@@ -82,7 +82,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 ![Reservation](https://github.com/damodhar92/Projects/assets/104577474/1e9c1c78-defb-45a2-9b3d-7c263a8a9ad6)
 
 
-##### Insights
+##### Insights:
 * The highest canceled rate in the January month
 * The highest not canceled rate in the august month
 
@@ -91,7 +91,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 ![adr  per month](https://github.com/damodhar92/Projects/assets/104577474/7967ddb3-8ecc-4b26-98fe-1b26095d2a81)
 
 
-##### Insights
+##### Insights:
 * In January, the average daily rate is high, which correlates with a higher rate of cancellations during this month
 * In August, the average daily rate is low, leading to a correspondingly lower rate of cancellations
 * There is a correlation between the average daily rate and the cancellation rate
@@ -101,7 +101,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 ![image](https://github.com/damodhar92/Projects/assets/104577474/7ea2e4ca-60fa-4067-8850-70dd15190f10)
 
 
-##### Insights
+##### Insights:
 * around 48% of customers come from online travel agencies
 * 20% of customers come from offline travel agencies and travel operators
 * around 17% of customers arrive as groups, indicating multiple customers per reservation
@@ -112,7 +112,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 ![top](https://github.com/damodhar92/Projects/assets/104577474/c0263d12-da96-4c82-a379-9950fb166cde)
 
 
-##### Insights
+##### Insights:
 * Highest 70% of bookings canceled by PRT(Portugal) country customers
 * GBR (Great Britain) country customers are booking canceled 6.25%
 * France customers booking canceled by 4.92%
