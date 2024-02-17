@@ -80,7 +80,8 @@ Hotel booking dataset having 119390 rows and 32 Columns
 
 ### Reservation status per month 
 
-![Reservation](https://github.com/damodhar92/Projects/assets/104577474/1e9c1c78-defb-45a2-9b3d-7c263a8a9ad6)
+![Reservation status per month](https://github.com/damodhar92/Projects/assets/104577474/1a76bf97-ddeb-4749-b826-714ed6661606)
+
 
 
 ##### Insights:
