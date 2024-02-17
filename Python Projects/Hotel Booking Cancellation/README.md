@@ -50,7 +50,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 
 ### Data Analysis 
 
-#### Barplot for guest come from topten countries 
+### Barplot for guest come from topten countries 
 
 ![Top Ten Countries](https://github.com/damodhar92/Projects/assets/104577474/736fedab-b29e-40ea-b11b-5e02d6e12daf)
 
@@ -60,7 +60,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 * Third highest country is FRA(France) 8,468 customers from france
 * The above 3 countries are located in Europe
 
-#### count plot to visualize reservation cancellation status in different hotels
+### count plot to visualize reservation cancellation status in different hotels
 
 ![image](https://github.com/damodhar92/Projects/assets/104577474/b38d6cfa-261f-40b0-a650-33dae538b96c)
 
@@ -70,14 +70,14 @@ Hotel booking dataset having 119390 rows and 32 Columns
 * In the resort_hotel cancellation rate is 27%
 * Compared to the resort hotel, the city hotel has a higher cancellation rate
 
-#### Line graph for showing Average daily rate 
+### Line graph for showing Average daily rate 
 
 ![Reservation](https://github.com/damodhar92/Projects/assets/104577474/3b689004-e6d7-48a1-891d-b066d76baf5d)
 
 ##### Insights:
 * The above line graph shows that the most of days average daily rate in the city hotel is more than the resort hotel
 
-#### Reservation status per month 
+### Reservation status per month 
 
 ![Reservation](https://github.com/damodhar92/Projects/assets/104577474/1e9c1c78-defb-45a2-9b3d-7c263a8a9ad6)
 
@@ -86,7 +86,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 * The highest canceled rate in the January month
 * The highest not canceled rate in the august month
 
-#### Average Daily Rate per Month
+### Average Daily Rate per Month
 
 ![adr  per month](https://github.com/damodhar92/Projects/assets/104577474/7967ddb3-8ecc-4b26-98fe-1b26095d2a81)
 
@@ -96,7 +96,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 * In August, the average daily rate is low, leading to a correspondingly lower rate of cancellations
 * There is a correlation between the average daily rate and the cancellation rate
 
-#### Top booking segments 
+### Top booking segments 
 
 ![image](https://github.com/damodhar92/Projects/assets/104577474/7ea2e4ca-60fa-4067-8850-70dd15190f10)
 
@@ -107,7 +107,7 @@ Hotel booking dataset having 119390 rows and 32 Columns
 * around 17% of customers arrive as groups, indicating multiple customers per reservation
 * 10% of customers book their reservations directly, without using a third-party service
 
-#### Top 10 Countries with Reservation Cancellations
+### Top 10 Countries with Reservation Cancellations
 
 ![top](https://github.com/damodhar92/Projects/assets/104577474/c0263d12-da96-4c82-a379-9950fb166cde)
 
