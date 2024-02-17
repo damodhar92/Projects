@@ -7,7 +7,8 @@ In recent years, City Hotel and Resort Hotel have seen high cancellation rates. 
 
  ### About the dataset 
 Hotel booking dataset having 119390 rows and 32 Columns 
-hotel                                # In the hotel column there are two unique values city hotel and resort hotel
+
+ hotel                                # In the hotel column there are two unique values city hotel and resort hotel
 is_canceled                          # this column indicate whether booking was canceled or not
 lead_time                            # number of day between booking date and arrival date
 arrival_date_year                    # arrival date year
