@@ -50,4 +50,14 @@ Hotel booking dataset having 119390 rows and 32 Columns
 
 ### Data Analysis 
 
+#### Barplot for guest come from topten countries 
+
+![Top Ten Countries](https://github.com/damodhar92/Projects/assets/104577474/736fedab-b29e-40ea-b11b-5e02d6e12daf)
+
+##### Insights
+* first highest country is PRT (Portugal) more than 20,977 customers from Portugal
+* Second highest country is GBR (Great Britain), which is part of United Kingdom approximately 9,668 customers form Great Britain
+* Third highest country is FRA(France) 8,468 customers from france
+* The above 3 countries are located in Europe
+
 
