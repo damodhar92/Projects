@@ -41,4 +41,13 @@ Hotel booking dataset having 119390 rows and 32 Columns
 * reservation_status                   -# current status of the reservation 
 * reservation_status_date              -# date at which the reservation status was set
 
+### Steps Inside the Project
+* Explored dataset using Excel for initial analysis and visualization.
+* Performed Data Cleaning using Python.
+* Conducted Exploratory Data Analysis (EDA) to uncover patterns, trends, and relationships within the data.
+* Observed insights from charts, graphs, and statistical summaries generated during EDA.
+* Formulated appropriate recommendations to mitigate hotel booking cancellations based on the findings from EDA.
+
+### Data Analysis 
+
 
