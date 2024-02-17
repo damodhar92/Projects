@@ -60,4 +60,86 @@ Hotel booking dataset having 119390 rows and 32 Columns
 * Third highest country is FRA(France) 8,468 customers from france
 * The above 3 countries are located in Europe
 
+#### count plot to visualize reservation cancellation status in different hotels
+
+![image](https://github.com/damodhar92/Projects/assets/104577474/b38d6cfa-261f-40b0-a650-33dae538b96c)
+
+##### Insights
+* In the whole hotel bookings, the reservation cancellation rate is 37%
+* In the city_hotel cancellation rate is 41%
+* In the resort_hotel cancellation rate is 27%
+* Compared to the resort hotel, the city hotel has a higher cancellation rate
+
+#### Line graph for showing Average daily rate 
+
+![Reservation](https://github.com/damodhar92/Projects/assets/104577474/3b689004-e6d7-48a1-891d-b066d76baf5d)
+
+##### Insights
+* The above line graph shows that the most of days average daily rate in the city hotel is more than the resort hotel
+
+#### Reservation status per month 
+
+![Reservation](https://github.com/damodhar92/Projects/assets/104577474/1e9c1c78-defb-45a2-9b3d-7c263a8a9ad6)
+
+
+##### Insights
+* The highest canceled rate in the January month
+* The highest not canceled rate in the august month
+
+#### Average Daily Rate per Month
+
+![adr  per month](https://github.com/damodhar92/Projects/assets/104577474/7967ddb3-8ecc-4b26-98fe-1b26095d2a81)
+
+
+##### Insights
+* In January, the average daily rate is high, which correlates with a higher rate of cancellations during this month
+* In August, the average daily rate is low, leading to a correspondingly lower rate of cancellations
+* There is a correlation between the average daily rate and the cancellation rate
+
+#### Top booking segments 
+
+![image](https://github.com/damodhar92/Projects/assets/104577474/7ea2e4ca-60fa-4067-8850-70dd15190f10)
+
+
+##### Insights
+* around 48% of customers come from online travel agencies
+* 20% of customers come from offline travel agencies and travel operators
+* around 17% of customers arrive as groups, indicating multiple customers per reservation
+* 10% of customers book their reservations directly, without using a third-party service
+
+#### Top 10 Countries with Reservation Cancellations
+
+![top](https://github.com/damodhar92/Projects/assets/104577474/c0263d12-da96-4c82-a379-9950fb166cde)
+
+
+##### Insights
+* Highest 70% of bookings canceled by PRT(Portugal) country customers
+* GBR (Great Britain) country customers are booking canceled 6.25%
+* France customers booking canceled by 4.92%
+
+### Recommendations
+
+* Portugal has highest number of customers, it might be benificial to focus marketing efforts on attracting more customers from Portugal. 
+* Great Britain has the second highest country, it's essential to implement encourage repeat bookings. This inculude providing offers based on past bookings, tailored customer services based on needs of british travelers.
+* France (FRA) being the third-highest country in terms of customers, consider expanding services or offering unique experiences tailored to French travelers. 
+* Since the top three countries are all located in europe, it may be beneficial to focus on european market.
+* More cancellation rate in the city hotel compare to resort hotel 
+    * So offer flexible booking options to customers to commit their reservations in city hotels bookings 
+    * adjusting the cancellation policies in the city hotel bookings 
+* average daily rate(ADR) is more in the city hotel compare with resort hotel 
+    * Highlight the unique features and amenities offered by city hotels to justify the higher average daily rate
+    * Create bundled and special offers to attract more bookings at the city hotel 
+* Higest cancellation rate in january month 
+    * in the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month
+* Most of customer booking through online agencies 
+    * Increase partnerships and promotions with online travel agencies to attract more customers, as almost half of the    customers book through these platforms.
+* Most booking canceled by Portugal Country customers 
+    * increase the quality of their hotels and their services mainly in
+      Portugal to reduce the cancellation rate
+
+
+
+
+
+
 
