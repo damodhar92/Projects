@@ -1,7 +1,7 @@
 # Gokul Store Sales Data Analysis 
 
 ### Problem statement
-Gokul Store is an Online Textile Store conducting business across various channels such as Amzone, Flipkart, and Ajio. Gokul Store wants to create an annual sales report analysis for 2023. So, that Gokul can understand their customers and grow more sales in 2024.
+Gokul Store is an Online Textile Store conducting business across various channels such as Amazon, Flipkart, and Ajio. Gokul Store wants to create an annual sales report analysis for 2023. So, that Gokul can understand their customers and grow more sales in 2024.
 
 #### Link to Excel WorkBook:- [Gokul Store Analysis](https://1drv.ms/x/c/a14dbffb1a804043/EQW_Ui2SNHFGhNfJVSoQYIYB3z3KDS9wKXSUQqlmF33Krg?e=C5Kbym)
 
@@ -9,12 +9,12 @@ Gokul Store is an Online Textile Store conducting business across various channe
 The Dataset Contains 16 Columns they are
 1. Index  #Unique identifier for each row in the dataset
 2. Orderid  #Distinct number for each order 
-3. Customerid  #Unique identifier for each customer
+3. Customer id  #Unique identifier for each customer
 4. Gender  #Indicating Gender of the customer whether they are male or female
-5. Age  #age of the eachcustomer. it provides demographic information 
+5. Age  #age of the each customer. it provides demographic information 
 6. Date  #On which Date customer placed order
 7. Order status  #Indicates Status of Order
-8. Channel  #Sales Channels like Amzone, Flipkart etc.
+8. Channel  #Sales Channels like Amazon, Flipkart etc.
 9. Sku  #Unique identifier for specific product (Stock Keeping Unit)
 10. Category  #Providing information about the type of category
 11. Size  #Size of the product 
@@ -25,11 +25,11 @@ The Dataset Contains 16 Columns they are
 16.  B2B  #It indicates Business-to-Business
 
 ## Key Steps
-+ Using Excel Power Query, shape, transform, and cleand the data
++ Using Excel Power Query, shape, transform, and cleaned the data
 + Generated Pivot table to summarize and aggregate the cleaned data
 + Pivot table data used for visualization such as charts. Bar Charts, Pie charts, and Funnel Charts used for visualization
-+ Created Filters Monthely column, Channels column
-+ Sales Annual DashBoard is Developed Using filters and Visualization Charts 
++ Created Filters Monthly column, Channels column
++ Sales Annual Dashboard is Developed Using filters and Visualization Charts 
 
 
 ## DashBoard 
@@ -37,14 +37,14 @@ The Dataset Contains 16 Columns they are
 
 ## Insights from the DashBoard
 + In the month of March the Highest amount of sales 1.90M
-+ Females percentage of purchase is high 64%
-+ Highest sales amount was recorded through Amzone channel 7506M
++ Females percentage of purchases is high 64%
++ Highest sales amount was recorded through Amazon channel 7506M
 + Adult age group (30-49 Years) is max contributing 50%.
-+ Maharastr, Karnataka and Uttar Pradesh are the top 3 states 35%
++ Maharashtra, Karnataka and Uttar Pradesh are the top 3 states 35%
 
 ## Recommendations 
-  Target Female customer of age group (30-49) living in Maharastra, karnataka and Uttar Pradesh by showing 
-ads/offers/coupons available on Amzone, Flipkart and Myntra
+  Target Female customer of age group (30-49) living in Maharashtra, Karnataka  and Uttar Pradesh by showing 
+ads/offers/coupons available on Amazon, Flipkart and Myntra
 
 ## Learnt things from this Project
 + Learned how to build filters and connect each filter to pivot tables
